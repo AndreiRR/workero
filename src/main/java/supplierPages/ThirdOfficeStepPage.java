@@ -11,6 +11,7 @@ public class ThirdOfficeStepPage extends CreateOfficeLocators {
 
     public ThirdOfficeStepPage(WebDriver driver) {
         PageFactory.initElements(driver,this);
+        this.driver = driver;
     }
 
 

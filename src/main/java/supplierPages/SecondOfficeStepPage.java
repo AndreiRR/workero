@@ -11,6 +11,7 @@ public class SecondOfficeStepPage extends CreateOfficeLocators {
 
     public SecondOfficeStepPage(WebDriver driver) {
         PageFactory.initElements(driver,this);
+        this.driver = driver;
     }
 
     public ThirdOfficeStepPage setCalendarManagement() {

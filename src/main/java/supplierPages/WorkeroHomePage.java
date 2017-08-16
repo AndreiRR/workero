@@ -19,10 +19,11 @@ public class WorkeroHomePage {
 
     public WorkeroHomePage(WebDriver driver) {
         PageFactory.initElements(driver,this);
+        this.driver = driver;
     }
 
 
-    public FirstOfficeStepPage addOffice() {
+    public FirstOfficeStepPage clickAddOfficeButtons() {
         officeSetupLocator.click();
         addNewOfficeBtnLocator.click();
 

@@ -33,10 +33,10 @@ public class CreateOfficeLocators  {
     @FindBy(xpath = "//label[@for='weekday-Mon'][text()='MO']")
     protected WebElement mondayLocator;
 
-    @FindBy(name = "start-program-start")
+    @FindBy(xpath = "//label[@for='weekday-Fri'][text()='FR']")
     protected WebElement fridayLocator;
 
-    @FindBy(css = "div[class='stepNavigation'] >[class='buttonHeader active']")
+    @FindBy(name = "start-program-start")
     protected WebElement startProgramLocator;
 
     @FindBy(name = "start-program-end")

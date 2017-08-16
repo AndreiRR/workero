@@ -21,6 +21,7 @@ public class LoginPage  {
 
     public LoginPage(WebDriver driver) {
         PageFactory.initElements(driver,this);
+        this.driver = driver;
     }
 
     public WorkeroHomePage loginAsSupplier(String email,String password) {

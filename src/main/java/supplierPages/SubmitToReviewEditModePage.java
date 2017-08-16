@@ -9,5 +9,6 @@ public class SubmitToReviewEditModePage extends CreateOfficeLocators {
 
     public SubmitToReviewEditModePage(WebDriver driver) {
         PageFactory.initElements(driver,this);
+        this.driver = driver;
     }
 }

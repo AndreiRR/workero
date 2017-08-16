@@ -12,6 +12,7 @@ public class FifthOfficeStepPage  extends CreateOfficeLocators {
 
     public FifthOfficeStepPage(WebDriver driver) {
         PageFactory.initElements(driver,this);
+        this.driver = driver;
     }
 
     public SubmitToReviewEditModePage setProductType(String numberOfDesk,String floor) {
