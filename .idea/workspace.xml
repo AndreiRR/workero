@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f0248e8-bcd6-4cd9-80b3-38f2e4d6c788" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/workeroSeleniumPractice/CreateOfficeTests.class" afterPath="$PROJECT_DIR$/target/test-classes/workeroSeleniumPractice/CreateOfficeTests.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dataDriven/ExcelLibrary.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/locators/CreateOfficeLocators.java" afterPath="$PROJECT_DIR$/src/main/java/locators/CreateOfficeLocators.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/FifthOfficeStepPage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/FifthOfficeStepPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/FirstOfficeStepPage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/FirstOfficeStepPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/FourthOfficeStepPage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/FourthOfficeStepPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/LoginPage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/LoginPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/SecondOfficeStepPage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/SecondOfficeStepPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/SubmitToReviewEditModePage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/SubmitToReviewEditModePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/ThirdOfficeStepPage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/ThirdOfficeStepPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/supplierPages/WorkeroHomePage.java" afterPath="$PROJECT_DIR$/src/main/java/supplierPages/WorkeroHomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/BaseDriver.java" afterPath="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/BaseDriver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaPracticeAndSeleniumPractice.iml" afterPath="$PROJECT_DIR$/JavaPracticeAndSeleniumPractice.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/CreateOfficeTests.java" afterPath="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/CreateOfficeTests.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,8 +36,20 @@
       <file leaf-file-name="CreateOfficeTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/CreateOfficeTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+            <state relative-caret-position="170">
+              <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExcelLibrary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/dataDriven/ExcelLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="21" column="78" lean-forward="false" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/BaseDriver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="e#813#814#0" expanded="true" />
                 <element signature="e#850#851#0" expanded="true" />
@@ -89,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/locators/CreateOfficeLocators.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="157">
-              <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+              <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -136,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/AddnewOfficeStep2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/IBaseDriver.java" />
         <option value="$PROJECT_DIR$/src/test/java/Polymorphism/B.java" />
         <option value="$PROJECT_DIR$/src/test/java/wantsomeExercise/StaticTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumWantsome/DropDownTest.java" />
@@ -186,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/main/java/locators/CreateOfficeLocators.java" />
         <option value="$PROJECT_DIR$/src/main/java/supplierPages/FifthOfficeStepPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/BaseDriver.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/dataDriven/ExcelLibrary.java" />
         <option value="$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/CreateOfficeTests.java" />
       </list>
     </option>
@@ -198,10 +207,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-12" />
-    <option name="y" value="36" />
-    <option name="width" value="1918" />
-    <option name="height" value="1038" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -244,14 +253,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workero" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workero" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="supplierPages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workero" type="b2602c69:ProjectViewProjectNode" />
@@ -332,6 +333,31 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="ExcelLibrary.dataDriven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dataDriven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaPracticeAndSeleniumPractice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dataDriven" />
+      <option name="MAIN_CLASS_NAME" value="dataDriven.ExcelLibrary" />
+      <option name="METHOD_NAME" value="dataDriven" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="FifthOfficeStepTests.officeSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -345,31 +371,6 @@
       <option name="PACKAGE_NAME" value="workeroSeleniumPractice" />
       <option name="MAIN_CLASS_NAME" value="workeroSeleniumPractice.FifthOfficeStepTests" />
       <option name="METHOD_NAME" value="officeSpace" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="FirstOfficeStepTests.firstStepTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="workeroSeleniumPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JavaPracticeAndSeleniumPractice" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="workeroSeleniumPractice" />
-      <option name="MAIN_CLASS_NAME" value="workeroSeleniumPractice.FirstOfficeStepTests" />
-      <option name="METHOD_NAME" value="firstStepTests" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -630,19 +631,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FirstOfficeStepTests.firstStepTests" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FifthOfficeStepTests.officeSpace" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SecondOfficeStepTests.step2Tests" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ThirdOfficeStepTests.amenities" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CreateOfficeTests.setNewOffice" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FifthOfficeStepTests.officeSpace" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SecondOfficeStepTests.step2Tests" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ThirdOfficeStepTests.amenities" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CreateOfficeTests.setNewOffice" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ExcelLibrary.dataDriven" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.CreateOfficeTests.setNewOffice" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FifthOfficeStepTests.officeSpace" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ThirdOfficeStepTests.amenities" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SecondOfficeStepTests.step2Tests" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FirstOfficeStepTests.firstStepTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ExcelLibrary.dataDriven" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FifthOfficeStepTests.officeSpace" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ThirdOfficeStepTests.amenities" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SecondOfficeStepTests.step2Tests" />
       </list>
     </recent_temporary>
   </component>
@@ -660,35 +661,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 33m 49s.xml">
+    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 22h 35m 38s.xml">
       <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 38m 48s.xml">
+    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 22h 39m 29s.xml">
       <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 49m 16s.xml">
+    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 22h 40m 49s.xml">
       <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 50m 14s.xml">
+    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 22h 41m 33s.xml">
       <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 52m 29s.xml">
+    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 22h 47m 46s.xml">
       <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 53m 49s.xml">
+    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 22h 48m 56s.xml">
       <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 54m 56s.xml">
-      <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
+    <history-entry file="ExcelLibrary_dataDriven - 2017.08.16 at 22h 27m 02s.xml">
+      <configuration name="ExcelLibrary.dataDriven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 55m 40s.xml">
-      <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
+    <history-entry file="ExcelLibrary_dataDriven - 2017.08.16 at 22h 27m 20s.xml">
+      <configuration name="ExcelLibrary.dataDriven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 56m 37s.xml">
-      <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
+    <history-entry file="ExcelLibrary_dataDriven - 2017.08.16 at 22h 27m 40s.xml">
+      <configuration name="ExcelLibrary.dataDriven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateOfficeTests_setNewOffice - 2017.08.16 at 20h 57m 11s.xml">
-      <configuration name="CreateOfficeTests.setNewOffice" configurationId="JUnit" />
+    <history-entry file="ExcelLibrary_dataDriven - 2017.08.16 at 22h 30m 12s.xml">
+      <configuration name="ExcelLibrary.dataDriven" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -783,8 +784,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/G3HIS_Automation/src/main/java/g3His/steps/LoginSteps.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Method.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/IBaseDriver.java" />
@@ -985,7 +984,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/locators/CreateOfficeLocators.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
-          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -1013,7 +1012,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/BaseDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="e#813#814#0" expanded="true" />
             <element signature="e#850#851#0" expanded="true" />
@@ -1021,10 +1020,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dataDriven/ExcelLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="21" column="78" lean-forward="false" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/workeroSeleniumPractice/CreateOfficeTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        <state relative-caret-position="170">
+          <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
